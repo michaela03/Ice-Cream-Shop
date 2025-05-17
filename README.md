@@ -21,6 +21,6 @@ A simple console-based Java application that simulates an ice cream shop using d
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Ice-Cream-Shop.git
+git clone https://github.com/michaela03/Ice-Cream-Shop.git
 cd Ice-Cream-Shop
 
